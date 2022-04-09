@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">davaleba5kotlin</string>
+    <string name="run_range">გარბენილი მანძილი</string>
+    <string name="swim_range">გაცურული მანძილი</string>
+    <string name="calorie">მიღებული კალორია</string>
+    <string name="save">შენახვა</string>
+    <string name="average_stats">საშუალო სტატისტიკა:\n Run: %1$s,\n Swim: %2$s,\n Calorie:%3$s;\nჯამურად გარბენილი მანძილი: %4$s</string>
+</resources>
